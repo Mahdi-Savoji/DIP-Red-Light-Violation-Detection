@@ -20,18 +20,21 @@ This project is designed to detect license plates in traffic videos and extract 
 1. Clone the repository:
 
    ```shell
-   git clone <repository_url>
+   git https://github.com/Mahdi-Savoji/Traffic-Red-Light-Runing-Violatino-Detection-and-Recognition-Using-DIP.git
 
 2. Install the required dependencies:
+
+   ```shell
     pip install opencv-python numpy pytesseract matplotlib pandas
-    ```
+
 3. Download the traffic video from the project directory and save it as trafficVideo_original.mp4.
 
 ## Usage
 
 1. Run the license_plate_detection.py script:
+
+   ```shell
     python license_plate_detection.py
-    ```
 
 2. The script will process the video and detect license plates in real-time.
 
