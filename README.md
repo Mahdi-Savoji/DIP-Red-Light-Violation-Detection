@@ -79,5 +79,12 @@ This section showcases the original and output GIFs to demonstrate the license p
 
    <img src="Test/Output.gif" alt="Output" width="400" height="500">
 
+This section displays the extracted license plate numbers along with associated information.
 
-
+| License Plate Number | Penalty |    DateTime    | taxi|
+|----------------------|---------|----------------|-----|
+|        KW527         |    0    | 9/1/2023 12:38 |FALSE|
+|        8525          |    0    | 9/1/2023 12:38 |TRUE |
+|        3867          |    0    | 9/1/2023 12:38 |TRUE |
+|        YB6433        |    1    | 9/1/2023 12:39 |FALSE|
+|        NN773         |    1    | 9/1/2023 12:39 |FALSE|
