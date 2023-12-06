@@ -15,7 +15,7 @@ lisenceplate = []
 temp_list = []
 
 
-# Get Video From "Github Repository"
+# Get Video From "https://drive.google.com/file/d/1g1ec21omTPXfPV4UKZiwWYzl-jPhGpcK/view?usp=sharing"
 cap = cv2.VideoCapture("trafficVideo_original.mp4")
 # Get the original video's frame size
 frame_width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
