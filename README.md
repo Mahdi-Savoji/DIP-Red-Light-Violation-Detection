@@ -73,11 +73,11 @@ This section showcases the original and output GIFs to demonstrate the license p
 
 - The Input GIF below demonstrates the input video:
 
-   <img src="Test/Original.gif" alt="Input" width="400" height="500">
+   <img src="Test/Original.gif" alt="Input">
 
 - The output GIF below showcases the processed video with highlighted license plate numbers:
 
-   <img src="Test/Output.gif" alt="Output" width="400" height="500">
+   <img src="Teat/Output.gif" alt="Output">
 
 This section displays the extracted license plate numbers along with associated information.
 
